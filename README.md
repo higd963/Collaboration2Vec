@@ -12,3 +12,23 @@ This repository provides an implementation for learning representation of resear
 > Is Performance of Scholars Correlated to their Research Collaboration Patterns? 
 > in Proceedings the 6th Workshop on Big Scholarly Data (BigScholar 2019), co-located with the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019), Beijing, China, 11/2019.
 
+### Requirements
+
+The codebase is implemented in Python 3.6.1 | Anaconda 4.6.14 (64-bit). Package versions used for development are just below.
+```
+jsonschema        2.6.0
+numpy             1.15.4
+pandas            0.23.4
+texttable         1.5.0
+gensim            3.8.0
+seaborn           0.9.0
+matplotlib        2.2.3
+```
+
+### Datasets
+
+
+
+### Options
+
+Learning of the embedding is handled by the `src_code/collaboraion2vec.py` script which provides the following command line arguments.
