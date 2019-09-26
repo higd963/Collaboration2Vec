@@ -8,7 +8,7 @@
 </p>
 
 This repository provides an implementation for learning representation of research collaboration patterns as it is described in:
-> Is Performance of Scholars Correlated to their Research Collaboration Patterns?
-> Hyeon-Ju Jeon, O-Joun Lee, and Jason J. Jung
+> Hyeon-Ju Jeon, O-Joun Lee, Jason J. Jung:
+> Is Performance of Scholars Correlated to their Research Collaboration Patterns? 
 > in Proceedings the 6th Workshop on Big Scholarly Data (BigScholar 2019), co-located with the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019), Beijing, China, 11/2019.
 
