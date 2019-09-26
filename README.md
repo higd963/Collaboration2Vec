@@ -31,4 +31,4 @@ matplotlib        2.2.3
 
 ### Options
 
-Learning of the embedding is handled by the `src_code/collaboraion2vec.py` script which provides the following command line arguments.
+Learning of the embedding is handled by the `src_code/collaboraion_patterns_embedding.py` script which provides the following command line arguments.
