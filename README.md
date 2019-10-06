@@ -30,7 +30,7 @@ This is developed on top of "gensim" python package.
 
 ### Datasets
 
-We collected the bibliography data from [DBLP](https://dblp.uni-trier.de) dataset over the last five years at the famous conferences (e.g., ICDE, SIGMOD, and VLDB). The dataset consists of rich bibliography information, including the authors, titles, publication year, venues, and so on. The number of citations for the collected papers is acquried from [Scopus](https://www.scopus.com).
+We collected bibliography data from [DBLP](https://dblp.uni-trier.de). Since the bibliography data is exessively massive, we restricted a collection range into the famous conferences in DBMS area (e.g., ICDE, SIGMOD, and VLDB) over the last five years. The dataset consists of rich bibliography information, including the authors, titles, publication year, venues, and so on. The number of citations for the collected papers is acquried from [Scopus](https://www.scopus.com).
 In our co-authorship network, a node indicates a scholar, and each edge denotes whether two corresponding scholars have ever collaborated. Proximity indicates the proximity between two authors, which are measured by the number of co-authored publications.
 
 
