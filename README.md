@@ -36,7 +36,7 @@ In our co-authorship network, a node indicates a scholar, and each edge denotes 
 
 ### Options
 
-Learning of the embedding is handled by the `src_code/collaboraion_patterns_embedding.py` script which provides the following command line arguments.
+Representation learning procedures are handled by `src_code/collaboraion_patterns_embedding.py` script that provides the following command line arguments.
 
 
 ## Contact ##
