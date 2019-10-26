@@ -11,6 +11,7 @@ This repository provides an implementation for learning representation of resear
 > Hyeon-Ju Jeon, O-Joun Lee, Jason J. Jung:
 > Is Performance of Scholars Correlated to their Research Collaboration Patterns? 
 > in Proceedings the 6th Workshop on Big Scholarly Data (BigScholar 2019), co-located with the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019), Beijing, China, 11/2019.
+ [[Full-text]](https://www.frontiersin.org/articles/10.3389/fdata.2019.00039/abstract).
 
 ### Requirements
 
